@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Adv. Ahsan Rahman",
+    "speciality": "Criminal Law",
+    "experience": 8,
+    "licenseNo": "BD-LAW-10293",
+    "fee": 1500,
+    "image": "/src/assets/lawyer.png",
+    "availability": ["Sunday", "Tuesday", "Thursday"]
+  },
+  {
+    "id": 2,
+    "name": "Adv. Farhana Karim",
+    "speciality": "Family Law",
+    "experience": 6,
+    "licenseNo": "BD-LAW-20411",
+    "fee": 1200,
+    "image": "/src/assets/lawyer.png",
+    "availability": ["Monday", "Wednesday"]
+  },
+  {
+    "id": 3,
+    "name": "Barrister Samiul Haque",
+    "speciality": "Corporate Law",
+    "experience": 10,
+    "licenseNo": "BD-LAW-30902",
+    "fee": 2000,
+    "image": "/src/assets/lawyer.png",
+    "availability": ["Sunday", "Monday", "Thursday"]
+  },
+  {
+    "id": 4,
+    "name": "Adv. Nabila Sultana",
+    "speciality": "Property Law",
+    "experience": 5,
+    "licenseNo": "BD-LAW-44120",
+    "fee": 1100,
+    "image": "/src/assets/lawyer.png",
+    "availability": ["Tuesday", "Friday"]
+  },
+  {
+    "id": 5,
+    "name": "Adv. Rezaul Islam",
+    "speciality": "Tax Law",
+    "experience": 12,
+    "licenseNo": "BD-LAW-55218",
+    "fee": 1800,
+    "image": "/src/assets/lawyer.png",
+    "availability": ["Monday", "Wednesday", "Saturday"]
+  },
+  {
+    "id": 6,
+    "name": "Barrister Sadia Noor",
+    "speciality": "Immigration Law",
+    "experience": 7,
+    "licenseNo": "BD-LAW-66771",
+    "fee": 1400,
+    "image": "/src/assets/lawyer.png",
+    "availability": ["Sunday", "Thursday"]
+  },
+  {
+    "id": 7,
+    "name": "Adv. Kamrul Hasan",
+    "speciality": "Civil Law",
+    "experience": 9,
+    "licenseNo": "BD-LAW-77820",
+    "fee": 1600,
+    "image": "/src/assets/lawyer.png",
+    "availability": ["Tuesday", "Saturday"]
+  },
+  {
+    "id": 8,
+    "name": "Adv. Liza Ahmed",
+    "speciality": "Labour Law",
+    "experience": 4,
+    "licenseNo": "BD-LAW-88310",
+    "fee": 1000,
+    "image": "/src/assets/lawyer.png",
+    "availability": ["Monday", "Thursday"]
+  },
+  {
+    "id": 9,
+    "name": "Barrister Arif Mahmud",
+    "speciality": "Banking Law",
+    "experience": 11,
+    "licenseNo": "BD-LAW-99834",
+    "fee": 1900,
+    "image": "/src/assets/lawyer.png",
+    "availability": ["Sunday", "Wednesday"]
+  },
+  {
+    "id": 10,
+    "name": "Adv. Tania Akter",
+    "speciality": "Environmental Law",
+    "experience": 6,
+    "licenseNo": "BD-LAW-11021",
+    "fee": 1300,
+    "image": "/src/assets/lawyer.png",
+    "availability": ["Tuesday", "Friday"]
+  },
+  {
+    "id": 11,
+    "name": "Adv. Rakib Chowdhury",
+    "speciality": "Cyber Law",
+    "experience": 8,
+    "licenseNo": "BD-LAW-12190",
+    "fee": 1700,
+    "image": "/src/assets/lawyer.png",
+    "availability": ["Monday", "Saturday"]
+  },
+  {
+    "id": 12,
+    "name": "Barrister Nusrat Jahan",
+    "speciality": "International Law",
+    "experience": 13,
+    "licenseNo": "BD-LAW-13244",
+    "fee": 2200,
+    "image": "/src/assets/lawyer.png",
+    "availability": ["Wednesday", "Thursday"]
+  }
+]

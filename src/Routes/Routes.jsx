@@ -4,6 +4,7 @@ import Root from "../pages/Root/Root";
 import ErrorPage from "../pages/ErrorPage/ErrorPage";
 import Home from "../pages/Home/Home";
 import LawyerDetails from "../pages/LawyerDetails/LawyerDetails";
+import Bookings from "../pages/Bookings/Bookings";
 export const router = createBrowserRouter([
   {
     path: "/",
@@ -20,6 +21,10 @@ export const router = createBrowserRouter([
         path: "/lawyerDetails/:id",
         loader: () => fetch("./lawyersData.json"),
         Component: LawyerDetails,
+      },
+      {
+        path: "/bookings/",
+        Component: Bookings,
       },
     ],
   },

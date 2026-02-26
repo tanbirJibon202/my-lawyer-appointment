@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Adv. Ahsan Rahman",
-    "speciality": "Criminal Law",
+    "speciality": "Criminal Law Expert",
     "experience": 8,
     "licenseNo": "BD-LAW-10293",
     "fee": 1500,
@@ -12,7 +12,7 @@
   {
     "id": 2,
     "name": "Adv. Farhana Karim",
-    "speciality": "Family Law",
+    "speciality": "Family Law Expert",
     "experience": 6,
     "licenseNo": "BD-LAW-20411",
     "fee": 1200,
@@ -22,7 +22,7 @@
   {
     "id": 3,
     "name": "Barrister Samiul Haque",
-    "speciality": "Corporate Law",
+    "speciality": "Corporate Law Expert",
     "experience": 10,
     "licenseNo": "BD-LAW-30902",
     "fee": 2000,
@@ -32,7 +32,7 @@
   {
     "id": 4,
     "name": "Adv. Nabila Sultana",
-    "speciality": "Property Law",
+    "speciality": "Property Law Expert",
     "experience": 5,
     "licenseNo": "BD-LAW-44120",
     "fee": 1100,
@@ -42,7 +42,7 @@
   {
     "id": 5,
     "name": "Adv. Rezaul Islam",
-    "speciality": "Tax Law",
+    "speciality": "Tax Law Expert",
     "experience": 12,
     "licenseNo": "BD-LAW-55218",
     "fee": 1800,
@@ -52,7 +52,7 @@
   {
     "id": 6,
     "name": "Barrister Sadia Noor",
-    "speciality": "Immigration Law",
+    "speciality": "Immigration Law Expert",
     "experience": 7,
     "licenseNo": "BD-LAW-66771",
     "fee": 1400,
@@ -62,7 +62,7 @@
   {
     "id": 7,
     "name": "Adv. Kamrul Hasan",
-    "speciality": "Civil Law",
+    "speciality": "Civil Law Expert",
     "experience": 9,
     "licenseNo": "BD-LAW-77820",
     "fee": 1600,
@@ -72,7 +72,7 @@
   {
     "id": 8,
     "name": "Adv. Liza Ahmed",
-    "speciality": "Labour Law",
+    "speciality": "Labour Law Expert",
     "experience": 4,
     "licenseNo": "BD-LAW-88310",
     "fee": 1000,
@@ -82,7 +82,7 @@
   {
     "id": 9,
     "name": "Barrister Arif Mahmud",
-    "speciality": "Banking Law",
+    "speciality": "Banking Law Expert",
     "experience": 11,
     "licenseNo": "BD-LAW-99834",
     "fee": 1900,
@@ -92,7 +92,7 @@
   {
     "id": 10,
     "name": "Adv. Tania Akter",
-    "speciality": "Environmental Law",
+    "speciality": "Environmental Law Expert",
     "experience": 6,
     "licenseNo": "BD-LAW-11021",
     "fee": 1300,
@@ -102,7 +102,7 @@
   {
     "id": 11,
     "name": "Adv. Rakib Chowdhury",
-    "speciality": "Cyber Law",
+    "speciality": "Cyber Law Expert",
     "experience": 8,
     "licenseNo": "BD-LAW-12190",
     "fee": 1700,
@@ -112,7 +112,7 @@
   {
     "id": 12,
     "name": "Barrister Nusrat Jahan",
-    "speciality": "International Law",
+    "speciality": "International Law Expert",
     "experience": 13,
     "licenseNo": "BD-LAW-13244",
     "fee": 2200,

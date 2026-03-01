@@ -31,7 +31,7 @@ const Lawyers = ({ data = [] }) => {
 
   return (
     // 3. Attach the ref to the header or the top of the container
-    <div ref={sectionRef} className=" mx-auto pb-10 scroll-mt-10">
+    <div ref={sectionRef} className=" mx-auto scroll-mt-10">
       {/* Header Section */}
       <div className="max-w-4xl mx-auto text-center my-12 px-4">
         <h1 className="text-3xl md:text-4xl font-bold text-[#111827] mb-4">

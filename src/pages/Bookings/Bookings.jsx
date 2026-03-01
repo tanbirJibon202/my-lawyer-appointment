@@ -62,12 +62,18 @@ const Bookings = () => {
   if (bookedLawyers.length === 0) {
     return (
       <div className="flex flex-col items-center justify-center min-h-[60vh]">
-        <h2 className="text-3xl font-bold text-gray-400">No Bookings Found</h2>
+        <h2 className="text-4xl font-bold">
+          You Have not Booked any appointment yet
+        </h2>
+        <p className="mt-6 text-gray-400">
+          Our platform connects you with verified, experienced Lawyers across
+          various specialties — all at your convenience.
+        </p>
         <Link
           to="/"
-          className="btn mt-4 bg-[#14A800] text-white px-8 py-2 rounded-full font-semibold"
+          className="btn mt-4 bg-[#0000D1] text-white px-8 py-5 font-semibold"
         >
-          Book Now
+          Book an Appointment
         </Link>
       </div>
     );

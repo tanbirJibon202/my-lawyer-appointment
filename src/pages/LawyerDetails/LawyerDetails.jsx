@@ -10,9 +10,6 @@ const LawyerDetails = () => {
   const data = useLoaderData();
 
   const singleLawyer = data.find((lawyer) => lawyer.id === lawyerId);
-  if (!singleLawyer) {
-    return <div className="text-center py-20 font-bold">Lawyer Not Found!</div>;
-  }
 
   const { name, speciality, experience, licenseNo, fee, image, availability } =
     singleLawyer;

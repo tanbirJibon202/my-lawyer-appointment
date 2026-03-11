@@ -6,7 +6,7 @@
     "experience": 8,
     "licenseNo": "BD-LAW-10293",
     "fee": 1500,
-    "image": "/src/assets/lawyer.png",
+    "image": "https://i.postimg.cc/XNhb5WRd/lawyer.png",
     "availability": ["Sunday", "Tuesday", "Thursday"]
   },
   {
@@ -16,7 +16,7 @@
     "experience": 6,
     "licenseNo": "BD-LAW-20411",
     "fee": 1200,
-    "image": "/src/assets/lawyer.png",
+    "image": "https://i.postimg.cc/XNhb5WRd/lawyer.png",
     "availability": ["Monday", "Wednesday"]
   },
   {
@@ -26,7 +26,7 @@
     "experience": 10,
     "licenseNo": "BD-LAW-30902",
     "fee": 2000,
-    "image": "/src/assets/lawyer.png",
+    "image": "https://i.postimg.cc/XNhb5WRd/lawyer.png",
     "availability": ["Sunday", "Monday", "Thursday"]
   },
   {
@@ -36,7 +36,7 @@
     "experience": 5,
     "licenseNo": "BD-LAW-44120",
     "fee": 1100,
-    "image": "/src/assets/lawyer.png",
+    "image": "https://i.postimg.cc/XNhb5WRd/lawyer.png",
     "availability": ["Tuesday", "Friday"]
   },
   {
@@ -46,7 +46,7 @@
     "experience": 12,
     "licenseNo": "BD-LAW-55218",
     "fee": 1800,
-    "image": "/src/assets/lawyer.png",
+    "image": "https://i.postimg.cc/XNhb5WRd/lawyer.png",
     "availability": ["Monday", "Wednesday", "Saturday"]
   },
   {
@@ -56,7 +56,7 @@
     "experience": 7,
     "licenseNo": "BD-LAW-66771",
     "fee": 1400,
-    "image": "/src/assets/lawyer.png",
+    "image": "https://i.postimg.cc/XNhb5WRd/lawyer.png",
     "availability": ["Sunday", "Thursday"]
   },
   {
@@ -66,7 +66,7 @@
     "experience": 9,
     "licenseNo": "BD-LAW-77820",
     "fee": 1600,
-    "image": "/src/assets/lawyer.png",
+    "image": "https://i.postimg.cc/XNhb5WRd/lawyer.png",
     "availability": ["Tuesday", "Saturday"]
   },
   {
@@ -76,7 +76,7 @@
     "experience": 4,
     "licenseNo": "BD-LAW-88310",
     "fee": 1000,
-    "image": "/src/assets/lawyer.png",
+    "image": "https://i.postimg.cc/XNhb5WRd/lawyer.png",
     "availability": ["Monday", "Thursday"]
   },
   {
@@ -86,7 +86,7 @@
     "experience": 11,
     "licenseNo": "BD-LAW-99834",
     "fee": 1900,
-    "image": "/src/assets/lawyer.png",
+    "image": "https://i.postimg.cc/XNhb5WRd/lawyer.png",
     "availability": ["Sunday", "Wednesday"]
   },
   {
@@ -96,7 +96,7 @@
     "experience": 6,
     "licenseNo": "BD-LAW-11021",
     "fee": 1300,
-    "image": "/src/assets/lawyer.png",
+    "image": "https://i.postimg.cc/XNhb5WRd/lawyer.png",
     "availability": ["Tuesday", "Friday"]
   },
   {
@@ -106,7 +106,7 @@
     "experience": 8,
     "licenseNo": "BD-LAW-12190",
     "fee": 1700,
-    "image": "/src/assets/lawyer.png",
+    "image": "https://i.postimg.cc/XNhb5WRd/lawyer.png",
     "availability": ["Monday", "Saturday"]
   },
   {
@@ -116,7 +116,7 @@
     "experience": 13,
     "licenseNo": "BD-LAW-13244",
     "fee": 2200,
-    "image": "/src/assets/lawyer.png",
+    "image": "https://i.postimg.cc/XNhb5WRd/lawyer.png",
     "availability": ["Wednesday", "Thursday"]
   }
 ]

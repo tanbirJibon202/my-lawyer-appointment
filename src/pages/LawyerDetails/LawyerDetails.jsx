@@ -49,7 +49,7 @@ const LawyerDetails = () => {
         </div>
       </div>
 
-      <div className="card bg-white border border-gray-100 shadow-sm rounded-2xl p-8 flex flex-row gap-6 mt-8">
+      {/* <div className="card bg-white border border-gray-100 shadow-sm rounded-2xl p-8 flex flex-row gap-6 mt-8">
         <div className="w-48 h-48 bg-gray-300 rounded-2xl overflow-hidden">
           <img src={image} alt={name} className="w-full h-full object-cover" />
         </div>
@@ -74,6 +74,55 @@ const LawyerDetails = () => {
           <div className="flex items-center gap-2 mb-3">
             <p className="text-sm font-medium text-gray-600">Availability</p>
             <div className="flex gap-2">
+              {availability?.map((day, index) => (
+                <span
+                  key={index}
+                  className="bg-orange-50 text-orange-400 px-3 py-1 rounded-full text-xs border border-orange-100"
+                >
+                  {day}
+                </span>
+              ))}
+            </div>
+          </div>
+
+          <div className="flex items-center text-sm font-medium">
+            <p className="text-gray-600">Consultation Fee:</p>
+            <p className="ml-2 text-green-600 font-bold text-base">
+              Taka {fee}
+            </p>
+          </div>
+        </div>
+      </div> */}
+
+      <div className="card bg-white border border-gray-100 shadow-sm rounded-2xl p-6 md:p-8 flex flex-col md:flex-row gap-6 mt-8">
+        <div className="w-full md:w-48 h-64 md:h-48 bg-gray-300 rounded-2xl overflow-hidden">
+          <img src={image} alt={name} className="w-full h-full object-cover" />
+        </div>
+
+        <div className="flex-1 flex flex-col justify-center">
+          <div className="mb-2">
+            <span className="bg-blue-50 text-blue-600 px-3 py-1 rounded-full text-xs font-medium">
+              {experience}+ Years Experience
+            </span>
+          </div>
+
+          <h2 className="text-2xl md:text-3xl font-bold text-gray-900 mb-1">
+            {name}
+          </h2>
+
+          <div className="flex flex-wrap items-center gap-2 md:gap-4 mb-3">
+            <p className="text-gray-500 text-sm">{speciality}</p>
+            <div className="flex items-center gap-1 text-gray-500 text-sm">
+              <span className="border border-gray-400 rounded-full w-4 h-4 flex items-center justify-center text-[10px]">
+                R
+              </span>
+              <p>License No: {licenseNo}</p>
+            </div>
+          </div>
+
+          <div className="flex flex-col sm:flex-row sm:items-center gap-2 mb-3">
+            <p className="text-sm font-medium text-gray-600">Availability</p>
+            <div className="flex flex-wrap gap-2">
               {availability?.map((day, index) => (
                 <span
                   key={index}

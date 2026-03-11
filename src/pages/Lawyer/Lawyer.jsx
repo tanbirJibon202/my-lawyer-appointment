@@ -14,11 +14,11 @@ const Lawyer = ({ singleLawyer }) => {
       </div>
 
       <div className="flex flex-1 flex-col items-start gap-1">
-        <div className="flex gap-2 mb-1">
-          <span className="rounded-full bg-green-100 px-3 py-1 text-[11px] font-medium text-green-500">
+        <div className="flex flex-row items-center gap-1 mb-1">
+          <span className="rounded-full bg-green-100 px-2 py-0.5 text-[9px] sm:text-[11px] font-medium text-green-500 whitespace-nowrap">
             Available
           </span>
-          <span className="rounded-full bg-blue-50 px-3 py-1 text-[11px] font-medium text-blue-500">
+          <span className="rounded-full bg-blue-50 px-2 py-0.5 text-[9px] sm:text-[11px] font-medium text-blue-500 whitespace-nowrap">
             {experience}+ Years Experience
           </span>
         </div>

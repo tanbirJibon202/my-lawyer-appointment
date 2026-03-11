@@ -8,7 +8,7 @@ const Home = () => {
   const data = useLoaderData();
   console.log(data);
   return (
-    <div className="w-full">
+    <div>
       <Banner></Banner>
       <Lawyers data={data}></Lawyers>
       <AchievementSection></AchievementSection>

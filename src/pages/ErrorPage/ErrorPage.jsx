@@ -10,7 +10,7 @@ const ErrorPage = () => {
       <div className="max-w-6xl mx-auto w-full px-4 md:px-0">
         <Navbar />
 
-        <div className="flex flex-col items-center justify-center py-10 text-center">
+        <div className=" flex flex-col items-center justify-center py-10 text-center">
           <div className="w-40 h-40 md:w-48 md:h-48 mb-6 mx-auto">
             <img
               src={errorImg}
@@ -35,8 +35,6 @@ const ErrorPage = () => {
           </Link>
         </div>
       </div>
-
-      <Footer />
     </div>
   );
 };
